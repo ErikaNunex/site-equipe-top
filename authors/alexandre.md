@@ -1,6 +1,6 @@
 ## Alexandre Garcia
- - FullStack Developer
- - > Fortaleza, Ceará, Brasil
+ - **__FullStack Developer__**
+ > **Fortaleza, Ceará, Brasil**
 
  ```
     Melhor desistir do que ficar frustrado!
